@@ -1,5 +1,5 @@
-# Blaze terms of service
-## Developed by Blaze Developer Team
+# Blaze Privacy Policy
+## Developed by Blaze Team
 Founders:
 - https://github.com/jbxyz
 - https://github.com/3zg
@@ -12,7 +12,7 @@ Last updated: 19/10/2022
 - The data we collect includes the User IDs, Server IDs, Server Owner IDs, Channel IDs and Some Role IDs.
 - The bot may record command error messages, join and leave guild messages to a logging channel in the blaze's support server for the developer's knowledge.
 
-## Why We Collect Data
+## Why we collect Data
 - The data is required to make sure the bot functions properly.
 - Without this data, our bot will not be able to perform commands like change prefix, server info and user info commands, and the economy module, thus making the features inaccessible for users, decreasing their overall satisfaction.
 
